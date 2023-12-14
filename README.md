@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on [PixelDiagnose](https://github.com/pixeldiagnose)
+- 🔭 I’m currently working on [PixelDiagnose](https://github.com/pixel-diagnose)
 
 - 🌱 You can find all my projects here on [Github](https://github.com/coztomate?tab=repositories)
 
