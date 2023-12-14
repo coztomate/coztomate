@@ -6,7 +6,6 @@
 
 - 👋 Find out more about me on my [Website](https://www.dittrichkatja.com)
 
-- 💬 I’m currently learning more about Google Cloud and SQL
 
 #### Languages and Tools I use:
 - Python
