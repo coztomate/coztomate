@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on [PixelDiagnose](https://github.com/pixel-diagnose)
+- 🔭 I’m currently working on [PixelDiagnose](https://github.com/pixel-diagnose) and something secret with cats :smiley_cat:
 
 - 🌱 You can find all my projects here on [Github](https://github.com/coztomate?tab=repositories)
 
@@ -14,7 +14,7 @@
 - Scikit-learn
 - Tensorflow
 - HuggingFace :hugs: :green_heart:
-- ... and more :smiley_cat:
+- ... and more 
 
 <!--
 **coztomate/coztomate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
