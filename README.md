@@ -4,8 +4,6 @@
 
 - 🌱 You can find all my projects here on [Github](https://github.com/coztomate?tab=repositories)
 
-- 👋 Find out more about me on my [Website](https://www.dittrichkatja.com)
-
 
 #### Languages and Tools I use:
 - Python
