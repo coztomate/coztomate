@@ -4,7 +4,7 @@
 
 - 🌱 You can find all my projects here on [Github](https://github.com/coztomate?tab=repositories).
 
-- I am now doing analytics / data engineering. This is my other [repo](https://github.com/katja-d) (most project confidential, though).
+- I am now doing analytics / data engineering. This is my other [repo](https://github.com/katja-d) (most projects are confidential, though).
 
 
 #### Languages and Tools I used in Data Science:
