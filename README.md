@@ -1,11 +1,13 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on [PixelDiagnose](https://github.com/pixel-diagnose) and RAGs with Langchain
+- 🔭 This repo mainly contains my past data science projects like [PixelDiagnose](https://github.com/pixel-diagnose) and RAGs with Langchain.
 
-- 🌱 You can find all my projects here on [Github](https://github.com/coztomate?tab=repositories)
+- 🌱 You can find all my projects here on [Github](https://github.com/coztomate?tab=repositories).
+
+- I am now doing analytics / data engineering. This is my other [repo](https://github.com/katja-d) (most project confidential, though).
 
 
-#### Languages and Tools I use:
+#### Languages and Tools I used in Data Science:
 - Python
 - R
 - Git
